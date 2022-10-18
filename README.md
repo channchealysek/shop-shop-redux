@@ -29,7 +29,7 @@ Open http://localhost:3000 to view it in the browser. The page will reload if yo
 
 ## LiveURL
 The URL of the deployed application  
-https://cs-book-search22.herokuapp.com/
+https://shop-shop-redux22.herokuapp.com/
 
 ## Questions
 If you have any questions please check my GitHub or contact me by e-mail bellow:  
