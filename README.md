@@ -1,7 +1,12 @@
-# shop-shop-redux
+# Shop-Shop (E-Commerce Web Application)
 
 ## Description
-This an e-commerce application called "Shop-Shop" builded with Node.js, GraphQL, Apollo Server, MongoDB and it is using React for the front end and Redux for state management. The application allow users to shop with various of items upon they want and add the products to shopping Card. The shopping Cart allow user to managing their orders by do increasing, decreasing or deleting items from the Cart, after they made order the users can view the history of their ordered also.
+A full-stack e-commerce application built with Node.js, GraphQL, Apollo Server, and MongoDB on the backend, and React with Redux for the frontend and state management.
+The application enables users to:
+- Browse and shop a wide variety of products.
+- Add items to a shopping cart and manage their orders by increasing, decreasing, or removing items.
+- Complete orders and access a detailed order history to review past purchases.
+This project demonstrates end-to-end development of a modern e-commerce platform, integrating responsive design, state management, and a scalable backend API.
 
 ## Table of Contents
 1. [Installation](#Installation)
