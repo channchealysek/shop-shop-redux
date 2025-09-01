@@ -2,10 +2,12 @@
 
 ## Description
 A full-stack e-commerce application built with Node.js, GraphQL, Apollo Server, and MongoDB on the backend, and React with Redux for the frontend and state management.
+
 The application enables users to:
 - Browse and shop a wide variety of products.
 - Add items to a shopping cart and manage their orders by increasing, decreasing, or removing items.
 - Complete orders and access a detailed order history to review past purchases.
+
 This project demonstrates end-to-end development of a modern e-commerce platform, integrating responsive design, state management, and a scalable backend API.
 
 ## Table of Contents
