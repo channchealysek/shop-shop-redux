@@ -34,10 +34,6 @@ Open http://localhost:3000 to view it in the browser. The page will reload if yo
 ## Screenshot
 ![localhost_3000_ (6)](https://user-images.githubusercontent.com/102747948/196551377-63bcb240-41d9-49cc-9481-6e9d3831d08d.png)
 
-## LiveURL
-The URL of the deployed application  
-https://shop-shop-redux22.herokuapp.com/
-
 ## Questions
 If you have any questions please check my GitHub or contact me by e-mail bellow:  
-E-Mail: sek.channchealy@yahoo.com
+E-Mail: channchealysek@gmail.com
